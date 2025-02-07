@@ -50,6 +50,9 @@ PROPERTY_SOURCE_IDS = [
     "ml_bulk_modulus",
     "chemical_system",
     "dft_band_gap",
+    "density",
+    "volume",
+    "formation_energy_per_atom"
 ]
 
 SELECTED_ATOMIC_NUMBERS = [
